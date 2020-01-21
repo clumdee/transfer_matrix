@@ -2,3 +2,5 @@ ipywidgets==7.5.1
 numpy==1.17.4
 pandas==0.25.3
 plotly==4.4.1
+matplotlib==3.1.1
+seaborn==0.9.0
